@@ -45,9 +45,6 @@ The Tableau dashboard comprises two distinct pages, each serving a specific purp
 1.Customers Demographic Page:
 This page offers an in-depth portrayal of customers' demographic attributes.
 
-2.Customers Transaction Page:
-The second page of the dashboard is dedicated to presenting customer transaction data.
-
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 Detailed Explanation:
